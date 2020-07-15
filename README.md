@@ -8,9 +8,9 @@ Ceiling Light with Webserver, controlling 12V LED Sports, RGB Sting as well as W
 * couple of LED beams
 
 ## Software
-written in Arduino 1.8.12 with latesst ESP8266 extension
+written in Arduino 1.8.12 with latest ESP8266 extension.
 Webserver, JavaScrip and CSS created in [Glitch](http://www.glitch.com)
-Webocket-Usage allos immediate reponse
+Webocket-Usage allows immediate reponse
 
 Credit for Colourpicker and Strip Effect goes to [wireraken](https://github.com/wirekraken/ESP8266-Websockets-LED)
 
